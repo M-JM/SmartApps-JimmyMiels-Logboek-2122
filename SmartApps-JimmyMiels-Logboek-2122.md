@@ -1,6 +1,6 @@
 # SmartApps-JimmyMiels-Logboek-2122
 
-## Week 1 -  uur
+## Week 1 - 7.15 uur
 
 * Les 1 - 4 uur
 	* Les gevolgd 
@@ -24,6 +24,9 @@
     * https://ionicframework.com/
     * https://capacitorjs.com/
 
+## Week 2 -   uur
 
+    * User stories medewerkers zitten uitwerken (1uur)
+    
 
 
