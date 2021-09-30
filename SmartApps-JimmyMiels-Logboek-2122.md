@@ -26,7 +26,17 @@
 
 ## Week 2 -   uur
 
+* Les 2 - uur
+
+* Buiten les -  uur
+
     * User stories medewerkers zitten uitwerken (1uur)
-    
+    * User stories Klant - Zaakvoerder zitten uitwerken (1uur)
+    * User stories prioritiseren (1uur)
+    * PWA - Angular : Documentatie zitten lezen en zoeken (45min)
+        * https://angular.io/guide/service-worker-communications
+        * https://angular.io/guide/service-worker-notifications
+        * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular ( Frans guide voor het uitwerken van een PWA app van A-Z)
+        Engels versie is slechts een ondermaatse vertaling van het frans.
 
 
