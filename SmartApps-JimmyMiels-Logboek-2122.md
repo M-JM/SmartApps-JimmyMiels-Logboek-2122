@@ -28,15 +28,23 @@
 
 * Les 2 - uur
 
+ * Met docent project vooruitgang besproken + vragen gesteld (20mn)
+
 * Buiten les -  uur
+    
+    * Groep 
+        * User stories medewerkers - Zaakvoerder zitten uitwerken (1uur)
+        * User stories prioritiseren (1uur)
+        * PWA project test opgezet (50mn)
+        * NOSQL structuur besproken en verder toegelicht met vb. van project vorig jaar (1uur)
+        * Firebase integratie in Angular, opzetten van DB en eerste test uitvoeren (1uur)
 
-    * User stories medewerkers zitten uitwerken (1uur)
-    * User stories Klant - Zaakvoerder zitten uitwerken (1uur)
-    * User stories prioritiseren (1uur)
-    * PWA - Angular : Documentatie zitten lezen en zoeken (45min)
-        * https://angular.io/guide/service-worker-communications
-        * https://angular.io/guide/service-worker-notifications
-        * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular ( Frans guide voor het uitwerken van een PWA app van A-Z)
-        Engels versie is slechts een ondermaatse vertaling van het frans.
+    * Individueel
 
-
+        * User stories klant zitten uitwerken (1uur)
+        * PWA - Angular : Documentatie zitten lezen en zoeken (45min)
+            * https://angular.io/guide/service-worker-communications
+            * https://angular.io/guide/service-worker-notifications
+            * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular ( Frans guide voor het uitwerken van een PWA app van A-Z)
+            Engels versie is slechts een ondermaatse vertaling van het frans.
+        * NETLIFY deployment heel oppervlakkig gelezen, een test applicatie gedeployed via GITHUB
