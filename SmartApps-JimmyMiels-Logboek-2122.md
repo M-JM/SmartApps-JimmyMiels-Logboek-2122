@@ -1,6 +1,6 @@
 # SmartApps-JimmyMiels-Logboek-2122
 
-## Week 1 - 7.15 uur
+## Week 1 - 7.15 uur 24/09 - 01/10
 
 * Les 1 - 4 uur
 	* Les gevolgd 
@@ -24,7 +24,7 @@
     * https://ionicframework.com/
     * https://capacitorjs.com/
 
-## Week 2 -   uur
+## Week 2 -   uur 01/10 - 07/10
 
 * Les 2 - uur
 
@@ -33,11 +33,20 @@
 * Buiten les -  uur
     
     * Groep 
+        Eerste vast moment (4 uur 50mn)
         * User stories medewerkers - Zaakvoerder zitten uitwerken (1uur)
         * User stories prioritiseren (1uur)
         * PWA project test opgezet (50mn)
         * NOSQL structuur besproken en verder toegelicht met vb. van project vorig jaar (1uur)
         * Firebase integratie in Angular, opzetten van DB en eerste test uitvoeren (1uur)
+
+        Tweede vast moment (4 uur 30 mn)
+        * Nieuwe PWA project zonder IONIC + CAPICITOR.
+        * Firebase Database aangemaakt.
+        * Componenten / Service / Forms in Angular uitgetest en uitgelegd.
+        * Sprint 3 bepaald. 
+
+
 
     * Individueel
 
@@ -48,3 +57,5 @@
             * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular ( Frans guide voor het uitwerken van een PWA app van A-Z)
             Engels versie is slechts een ondermaatse vertaling van het frans.
         * NETLIFY deployment heel oppervlakkig gelezen, een test applicatie gedeployed via GITHUB
+        
+
