@@ -46,7 +46,9 @@
         * Componenten / Service / Forms in Angular uitgetest en uitgelegd.
         * Sprint 3 bepaald. 
 
-
+        Derde vast moment (stand up van 20mn )
+        * Layout besproken + feedback gegeven.
+        * Vooruitgang login functionaliteit besproken
 
     * Individueel
 
@@ -54,7 +56,7 @@
         * PWA - Angular : Documentatie zitten lezen en zoeken (45min)
             * https://angular.io/guide/service-worker-communications
             * https://angular.io/guide/service-worker-notifications
-            * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular ( Frans guide voor het uitwerken van een PWA app van A-Z)
+            * https://www.ganatan.com/tutorials/progressive-web-app-avec-angular (Frans guide voor het uitwerken van een PWA app van A-Z)
             Engels versie is slechts een ondermaatse vertaling van het frans.
         * NETLIFY deployment heel oppervlakkig gelezen, een test applicatie gedeployed via GITHUB
         
