@@ -60,4 +60,8 @@
             Engels versie is slechts een ondermaatse vertaling van het frans.
         * NETLIFY deployment heel oppervlakkig gelezen, een test applicatie gedeployed via GITHUB
         
+        * NgZones concept zitten lezen (dient voor performance optimization)
+        * https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html#:~:text=NgZone%20enables%20us%20to%20explicitly,change%20detection%20will%20be%20performed.
+
+        * heel simpele Firebase login uitgewerkt (30mn) 
 
