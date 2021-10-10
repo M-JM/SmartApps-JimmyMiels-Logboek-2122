@@ -1,6 +1,6 @@
 # SmartApps-JimmyMiels-Logboek-2122
 
-## Week 1 - 7.15 uur 24/09 - 01/10
+## Week 1 - 7 uur 15mn 24/09 - 01/10
 
 * Les 1 - 4 uur
 	* Les gevolgd 
@@ -24,13 +24,13 @@
     * https://ionicframework.com/
     * https://capacitorjs.com/
 
-## Week 2 -   uur 01/10 - 07/10
+## Week 2 -  10 uur 50mn 01/10 - 07/10
 
-* Les 2 - uur
+* Les 2 - 0.2 uur
 
  * Met docent project vooruitgang besproken + vragen gesteld (20mn)
 
-* Buiten les -  uur
+* Buiten les - 10.30 uur
     
     * Groep 
         Eerste vast moment (4 uur 50mn)
@@ -65,3 +65,15 @@
 
         * heel simpele Firebase login uitgewerkt (30mn) 
 
+## Week 3 -   uur  07/10 - 14/10
+
+    * Groep Eerste vast moment (4uur 20mn)
+
+        * Sprint 4 bepaald
+        * Angular Material uitgeprobeert
+        * Ionic toegevoegd aan Test project
+        * Authenticatie afgewerkt + beginsel van Rol-based authorisatie
+        * OAuth methods uitgeschreven ( nog uit te testen )
+        * Gezamelijk zitten werken via Live Share 
+
+    * Individueel
