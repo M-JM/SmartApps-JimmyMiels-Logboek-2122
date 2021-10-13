@@ -67,8 +67,9 @@
 
 ## Week 3 -   uur  07/10 - 14/10
 
-    * Groep Eerste vast moment (4uur 20mn)
-
+    * Groep
+    
+        Eerste vast moment (4uur 20mn)
         * Sprint 4 bepaald
         * Angular Material uitgeprobeert
         * Ionic toegevoegd aan Test project
@@ -76,4 +77,13 @@
         * OAuth methods uitgeschreven ( nog uit te testen )
         * Gezamelijk zitten werken via Live Share 
 
+
+       Tweede vast moment (3 uur 30 mn)
+        * Layout in Ionic voor login & registratie pagina zitten uitwerken.
+        * Google Auth uitgetest + eigen user profiel
+        * LightHouse tools gebruikt (in eerste instantie voor layout)
+  
     * Individueel
+        * Gaurds documentatie zitten hernemen
+        * Firebase functions voor rolen uitgewerkt en opgegeven sinds dit een betaalde functie. (rolen als onderdeel van Firebase.User zelf)
+        * RJXS nog eens bekeken om het beter te kunnen uitleggen
