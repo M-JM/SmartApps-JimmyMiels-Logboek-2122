@@ -65,9 +65,12 @@
 
         * heel simpele Firebase login uitgewerkt (30mn) 
 
-  ## Week 3 -   uur  07/10 - 14/10
+## Week 3 -  9 uur  07/10 - 14/10
 
-  * Groep
+
+* Buiten les - 10.30 uur
+
+    * Groep
     
         Eerste vast moment (4uur 20mn)
         * Sprint 4 bepaald
@@ -82,8 +85,28 @@
         * Layout in Ionic voor login & registratie pagina zitten uitwerken.
         * Google Auth uitgetest + eigen user profiel
         * LightHouse tools gebruikt (in eerste instantie voor layout)
+
+
+        Derde vast moment (niet plaatgevonden wegens verschillende gemelde afwezigheden)
   
     * Individueel
         * Gaurds documentatie zitten hernemen
         * Firebase functions voor rolen uitgewerkt en opgegeven sinds dit een betaalde functie. (rolen als onderdeel van Firebase.User zelf)
         * RJXS nog eens bekeken om het beter te kunnen uitleggen
+
+
+
+## Week 4 -   uur  15/10 - 24/10
+
+* Buiten les -  uur
+
+    * Groep
+    
+        Eerste vast moment (2uur 00mn)
+        * Backend met front samen gebracht
+        * Testen van login via Oauth en email/pass
+        * Profiel wordt in DB aangemaakt zowel bij email/pass als bij GoogleAuth ( weliswaar leeg profiel)
+        * Sprint 4 extended naar deze week sinds de afsluit van de week niet is gebeurd
+
+
+
