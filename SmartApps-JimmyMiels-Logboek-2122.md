@@ -65,9 +65,9 @@
 
         * heel simpele Firebase login uitgewerkt (30mn) 
 
-## Week 3 -   uur  07/10 - 14/10
+  ## Week 3 -   uur  07/10 - 14/10
 
-    * Groep
+  * Groep
     
         Eerste vast moment (4uur 20mn)
         * Sprint 4 bepaald
