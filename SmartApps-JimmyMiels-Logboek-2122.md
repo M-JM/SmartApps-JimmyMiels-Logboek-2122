@@ -110,3 +110,61 @@
 
 
 
+
+## Week 5 -  1 uur  25/10 - 31/10
+
+
+* Buiten les - 1 uur
+
+    * Groep
+    
+        Eerste vast moment (1uur 00mn)
+        * STAVAZA moment met leerkracht
+        * Gestart met Nav-bar
+
+    * Beperkte tijd besteed aan SmartApps wegens Service management Test + Paper
+
+   
+      
+## Week 6 -  0 uur  01/11 - 07/11
+
+* Buiten les - 0 uur
+
+    Zwaar ziek gevallen geen vooruitgang
+
+
+## Week 7 -  9 uur  08/11 - 14/11
+
+* Buiten les - 9 uur
+
+    * Groep
+    
+        Eerste vast moment (2uur 00mn)
+        * Responsive Nav-bar gemaakt
+        * Layout pagina's verder aangepast
+        
+        tweede vast moment (3uur 00mn)
+        * Lazy Loading van alle modulen (+ uitleg)
+
+    * Individueel (4uur 00mn)
+
+        * Netlify uitgetest en zitten configuren (gefaalde poging)
+        * Firebase hosting opgezet
+
+
+## Week 8 -  0 uur  15/11 - 21/11
+
+
+* Buiten les - 5 uur
+
+    * Groep (geen vaste momenten , crunch time -> alle dagen zoveel mogelijk)
+    
+
+
+
+    * Individueel
+        * CI/CD pipeline opgezet via Firebase en Github
+        * Algolia search engine geimplementeerd + Typesense(uitgeprobeerd)
+          heb moeten afstappen uiteindelijk want achteraf gemerkt dat zij geen offline caching toelaten ( tenzij enterprise key)
+        * 
+        
